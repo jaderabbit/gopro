@@ -1,13 +1,13 @@
 {
   "name": "gopro",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "API for controlling GoPro Hero 3 series cameras",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "repository": "https://github.com/kschzt/gopro",
-  "author": "kschzt@gmail.com",
+  "repository": "https://github.com/jaderabbit/gopro",
+  "author": "jabbott@retrorabbit.co.za",
   "license": "MIT",
   "dependencies": {
     "when": "~2.1.0",

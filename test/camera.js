@@ -70,6 +70,5 @@ describe('Camera', function() {
 	it('can erase the camera', function(done) {
 		expect('erase', camUrl+'DA?t='+pw, done)
 	})
-
 })
 
