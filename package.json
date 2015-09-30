@@ -1,6 +1,6 @@
 {
   "name": "gopro",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "API for controlling GoPro Hero 3 series cameras",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "dependencies": {
     "when": "~2.1.0",
     "request": "~2.21.0",
-    "cheerio": "~0.11.0"
+    "cheerio": "0.19.0"
   },
   "devDependencies": {
     "mocha": "~1.9.0"
